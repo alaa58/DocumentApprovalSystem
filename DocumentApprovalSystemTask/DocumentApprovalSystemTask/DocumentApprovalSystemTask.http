@@ -1,0 +1,6 @@
+@DocumentApprovalSystemTask_HostAddress = http://localhost:5236
+
+GET {{DocumentApprovalSystemTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
